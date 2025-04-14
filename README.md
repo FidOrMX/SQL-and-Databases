@@ -1,2 +1,0 @@
-# SQL-and-Databases
-aaa
